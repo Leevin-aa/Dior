@@ -197,6 +197,7 @@ hr {
   display: flex;
   flex-direction: column;
   justify-content: center;
+
 }
 
 .produkdesc h2 {
@@ -214,6 +215,7 @@ hr {
 
 .produkbtn {
   background: transparent;
+   text-decoration: none;
   border: 1px solid white;
   color: white;
   padding: 10px 20px;
@@ -221,6 +223,7 @@ hr {
   cursor: pointer;
   transition: 0.3s;
   width: fit-content;
+  
 }
 
 .produkbtn:hover {
