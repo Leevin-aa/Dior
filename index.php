@@ -5,7 +5,7 @@
 </head>
 <body>
     <?php include "component/Navbar.php" ?>
-    <?php include "page/Home.php" ?>
+    <?php include "route/web.php" ?>
     <?php include "component/Footer.php" ?>
 </body>
 </html>
